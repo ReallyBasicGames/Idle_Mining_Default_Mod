@@ -3,7 +3,8 @@
     "modName": "Default Mod",
     "modDiscription": "The default mod.",
     "modAuthor": "Really Basic Games",
-    "enabled": false
+    "enabled": false,
+    "dependencies": [null]
   },
   "resources": {
     "wood": {
